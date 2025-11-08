@@ -1,0 +1,7 @@
+{
+  "name": "Restaurant Management System",
+  "description": "A comprehensive dashboard for managing restaurant operations, staff, inventory, and analytics. This application provides a role-based interface for Admins to oversee the entire restaurant lifecycle, from order management to financial reporting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
